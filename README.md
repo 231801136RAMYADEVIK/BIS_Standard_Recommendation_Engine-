@@ -101,7 +101,7 @@ curl -X POST "http://localhost:8000/recommend" \
 
 ---
 
-## ✅ Features
+##  Features
 
 * PDF text extraction using pdfplumber
 * Semantic embeddings using Sentence Transformers
