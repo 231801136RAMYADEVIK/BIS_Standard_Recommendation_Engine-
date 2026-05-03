@@ -1,0 +1,111 @@
+[
+  {
+    "id": "PUB-01",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 8042"
+    ],
+    "latency_seconds": 0.01040029525756836
+  },
+  {
+    "id": "PUB-02",
+    "retrieved_standards": [
+      "IS 456",
+      "IS 383",
+      "IS 2686",
+      "IS 712",
+      "IS 4021"
+    ],
+    "latency_seconds": 0.009147405624389648
+  },
+  {
+    "id": "PUB-03",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 1786",
+      "IS 456"
+    ],
+    "latency_seconds": 0.010090351104736328
+  },
+  {
+    "id": "PUB-04",
+    "retrieved_standards": [
+      "IS 456",
+      "IS 2185 (PART 2)",
+      "IS 2185 (PART 1)",
+      "IS 2185",
+      "IS 12440"
+    ],
+    "latency_seconds": 0.008410453796386719
+  },
+  {
+    "id": "PUB-05",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 459",
+      "IS 1626"
+    ],
+    "latency_seconds": 0.008916854858398438
+  },
+  {
+    "id": "PUB-06",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS\n12089",
+      "IS 455"
+    ],
+    "latency_seconds": 0.007624387741088867
+  },
+  {
+    "id": "PUB-07",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 1489 (PART 2)",
+      "IS 4032"
+    ],
+    "latency_seconds": 0.01212930679321289
+  },
+  {
+    "id": "PUB-08",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 456",
+      "IS 3466"
+    ],
+    "latency_seconds": 0.011252641677856445
+  },
+  {
+    "id": "PUB-09",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 6909",
+      "IS 12330"
+    ],
+    "latency_seconds": 0.02389812469482422
+  },
+  {
+    "id": "PUB-10",
+    "retrieved_standards": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269",
+      "IS 8042",
+      "IS\n12089"
+    ],
+    "latency_seconds": 0.007973670959472656
+  }
+]
